@@ -1,5 +1,5 @@
 
-public class LinearSearch_Bartaula {
+public class LinearSearch{
     public static void main(String[] args) {
         String[] vehicles = {"Accord", "Accord", "Civic", "Civic", "CR-V", "HR-V", "Odyssey", "Passport", "Pilot", "Ridgeline"};
         String target = "pilot";
