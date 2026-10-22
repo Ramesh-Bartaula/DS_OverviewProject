@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Sorting{
 
-    public static void main(String[] args) {
+    public static void run() {
         Scanner scanner = new Scanner(System.in);
         int[] originalArray = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
 
