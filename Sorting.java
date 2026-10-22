@@ -5,7 +5,7 @@ public class Sorting{
 
     public static void run() {
 
-    system.out.println(" ----Running Sorting---- ");
+        system.out.println(" ----Running Sorting---- ");
         system.out.println(" ");
         
         Scanner scanner = new Scanner(System.in);
