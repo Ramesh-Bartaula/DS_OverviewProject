@@ -1,6 +1,9 @@
 
 public class LinearSearch{
-    public static void main(String[] args) {
+    public static void run() {
+
+        system.out.println("----Running Linear Search---- ");
+        system.out.println(" ");
         String[] vehicles = {"Accord", "Accord", "Civic", "Civic", "CR-V", "HR-V", "Odyssey", "Passport", "Pilot", "Ridgeline"};
         String target = "pilot";
         int counter = 0;
