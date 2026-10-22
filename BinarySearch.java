@@ -1,7 +1,10 @@
 import java.util.Arrays;
 
 public class BinarySearch{
-    public static void main(String[] args) {
+    public static void run() {
+        system.out.println(" ----Running Binary Search---- ");
+        system.out.println(" ");
+        
         String[] vehicles = {"V001", "V002", "V003", "V004", "V005", "V006", "V007", "V008", "V009", "V010"};
         String target = "V001";
 
