@@ -7,7 +7,7 @@ public class main {
 
         while (running) {
             System.out.println("\n==============================");
-            System.out.println("     ALGORITHM SELECTOR       ");
+            System.out.println("     Options      ");
             System.out.println("==============================");
             System.out.println("1. Binary Search");
             System.out.println("2. Linear Search");
