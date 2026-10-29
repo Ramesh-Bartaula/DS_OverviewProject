@@ -32,7 +32,7 @@ public class main {
                     LinearSearch.run();
                     break;
                 case 3:
-                    Sorting.run();
+                    Sorting.run(scanner);
                     break;
                 case 4:
                     running = false;

@@ -2,8 +2,8 @@
 public class LinearSearch{
     public static void run() {
 
-        system.out.println("----Running Linear Search---- ");
-        system.out.println(" ");
+        System.out.println("----Running Linear Search---- ");
+        System.out.println(" ");
         String[] vehicles = {"Accord", "Accord", "Civic", "Civic", "CR-V", "HR-V", "Odyssey", "Passport", "Pilot", "Ridgeline"};
         String target = "pilot";
         int counter = 0;
@@ -19,6 +19,10 @@ public class LinearSearch{
             System.out.println(target + " not found ");
         }
 
-        System.out.println("Total number of " + target + " = " + counter);
+        else{
+
+        System.out.println(target + " found and Total number of " + target + " = " + counter);
+
+        }
     }
 }

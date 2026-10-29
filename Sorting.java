@@ -3,12 +3,10 @@ import java.util.Scanner;
 
 public class Sorting{
 
-    public static void run() {
+    public static void run(Scanner scanner) {
 
-        system.out.println(" ----Running Sorting---- ");
-        system.out.println(" ");
-        
-        Scanner scanner = new Scanner(System.in);
+        System.out.println(" ----Running Sorting---- ");
+        System.out.println(" ");
         int[] originalArray = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
 
         System.out.println("=== Sorting Algorithms Menu ===");
@@ -41,7 +39,6 @@ public class Sorting{
                 System.out.println("Invalid option! Please select 1, 2, or 3.");
         }
 
-        scanner.close();
     }
 
     // 1. Bubble Sort
@@ -165,4 +162,3 @@ public class Sorting{
         System.out.println("  Subarray state after merge: " + Arrays.toString(arr));
     }
 }
-
