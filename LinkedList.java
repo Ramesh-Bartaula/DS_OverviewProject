@@ -1,3 +1,4 @@
+//ex. linked list
 class LinkedList {
     private static class Node {
         String vehicle;
