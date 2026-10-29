@@ -1,9 +1,8 @@
 // ex. array list
 import java.util.*;
-import java.lang.*;
-import java.io.*;
 
-class ArrayList
+
+class ArrayListDemo
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
