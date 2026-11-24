@@ -2,12 +2,12 @@
 
 A menu-driven Java console program built around a small vehicle dataset for a fictional dealership, A2 Motors. It stores, searches and sorts vehicle records with different data structures and prints every step, so you can watch what happens to the data as it is added, removed, searched and sorted.
 
-**Author:** Ramesh Bartaula
+**Author:** 
 **Status:** In progress. Arrays, ArrayList, linked list, two searches and three sorts are done. Queue, stack, binary tree, hash table and graph are still being added.
 
 ## How to Run
 
-You need a JDK (Java 17 or newer) and Git.
+We need a JDK (Java 17 or newer) and Git.
 
 ```bash
 git clone https://github.com/Ramesh-Bartaula/DS_OverviewProject.git
